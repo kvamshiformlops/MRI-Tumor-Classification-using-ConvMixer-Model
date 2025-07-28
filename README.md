@@ -1,5 +1,5 @@
 
-# 🧠 Breast MRI Tumor Classification with ConvMixer
+# Breast MRI Tumor Classification with ConvMixer
 A high-performance deep learning pipeline for classifying breast tumors (Benign vs Malignant) from MRI scans. This project combines robust data augmentation with a custom ConvMixer model, delivering precision-level diagnostics from visual patterns.
 ---
 
